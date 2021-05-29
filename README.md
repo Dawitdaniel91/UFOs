@@ -6,7 +6,7 @@ The purpose of this project is to build a table using data stored in JavaScript 
 
 # Results:
 Table 1
-https://github.com/Dawitdaniel91/UFOs/blob/main/Untitled.png
+https://github.com/Dawitdaniel91/UFOs/blob/main/UFOsNew.PNG
 
 
 The above website shows that the client to see the basic opening and title of the projects. In addition to the title, it shows that detail description about UFOs sight based on the scientific research based on data analysis.
