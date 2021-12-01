@@ -5,13 +5,14 @@ Using JavaScript ,html,css , bootstrap to make a UFO sightings page
 The purpose of this project is to build a table using data stored in JavaScript array. The table is fully dynamic that means it will react user input, and then place the table into an HTM file for easy viewing. 
 
 # Results:
-Table 1
+
 
 ![image](https://user-images.githubusercontent.com/80365882/144168501-ee04e139-fbc9-42df-b1d6-de191d60c4c8.png)
 
 
 The above website shows that the client to see the basic opening and title of the projects. In addition to the title, it shows that detail description about UFOs sight based on the scientific research based on data analysis.
-Table 2
+
+Table 
 
 ![image](https://user-images.githubusercontent.com/80365882/144168543-6531a54f-a32a-4fab-b9dd-d646ba3f5211.png)
 
