@@ -6,12 +6,14 @@ The purpose of this project is to build a table using data stored in JavaScript 
 
 # Results:
 Table 1
-https://github.com/Dawitdaniel91/UFOs/blob/main/UFOsNew.PNG
+
+![image](https://user-images.githubusercontent.com/80365882/144168501-ee04e139-fbc9-42df-b1d6-de191d60c4c8.png)
 
 
 The above website shows that the client to see the basic opening and title of the projects. In addition to the title, it shows that detail description about UFOs sight based on the scientific research based on data analysis.
 Table 2
-https://github.com/Dawitdaniel91/UFOs/blob/main/Table2.PNG
+
+![image](https://user-images.githubusercontent.com/80365882/144168543-6531a54f-a32a-4fab-b9dd-d646ba3f5211.png)
 
 The image on website shows that there are different five filter to choose from: date, city, state, country & shape. Any clint can choose any one to filter the required data from search bar. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
 
